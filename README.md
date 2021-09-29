@@ -2,7 +2,7 @@
 程式設計（一）
 
 
-week02 basic I/O
+week02
 
 ```c
 // For the first program
@@ -16,7 +16,7 @@ int main()
 ```
 
 
-week03 add
+week03
 
 ```c
 #include <stdio.h>
